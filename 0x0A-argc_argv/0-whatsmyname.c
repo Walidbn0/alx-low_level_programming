@@ -9,7 +9,7 @@
  *
  * Return: Always 0 (Success)
 */
-#include <unistd.h>
+
 void ft_putstr(char *str)
 {
     int i;
